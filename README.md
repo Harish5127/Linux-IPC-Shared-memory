@@ -135,9 +135,8 @@ int main() {
 
 ## OUTPUT
 
-![Screenshot 2025-05-18 134733](https://github.com/user-attachments/assets/24a7d4cb-5396-449d-998f-3ee5fe9adb5d)
 
-![Screenshot 2025-05-18 134738](https://github.com/user-attachments/assets/44d7ecac-84b7-42a3-a67c-e129c1b38c7e)
+![Screenshot 2025-05-19 213137](https://github.com/user-attachments/assets/a12dd6bc-23b4-4604-b73d-9d80a2603476)
 
 
 # RESULT:
